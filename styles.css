@@ -1,0 +1,26 @@
+.main-heading {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #B85042;
+  font-size: 36px;
+  font-weight: bold;
+  background-color: #E7E8D1;
+  text-align: center;
+}
+
+.recipe-heading {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #d8441b;
+  font-size: 24px;
+  font-weight: bold;
+  background-color: white;
+  text-align: left;
+}
+
+.step-heading {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #F98866;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+  text-align: left;
+}
